@@ -5,4 +5,4 @@ Some overview of each folder
 
 ## 001_hello_world
 
-I learned how to set up PCL on Ubuntu. I also learned how to use Cmake and coded a simple PCL visualizer.
+I learned how to set up PCL on Ubuntu. I also learned how to use Cmake and coded a simple PCL visualizer.c
